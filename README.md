@@ -14,7 +14,7 @@ Sou um profissional em formação pela EBAC no curso de Análise de Dados, com f
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Miguelmss&repo=portfolio-analista-de-dados&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Miguelmss&repo=portfolio-analista-de-dados&theme=dark)](https://github.com/Miguelmss/portfolio-analista-de-dados)
 
 
 
